@@ -1,0 +1,67 @@
+[
+  {
+    "extra_article_attributes.world_data.country": "ALL",
+    "trending_topic": {
+      "Art and Culture": 210,
+      "Business Events": 108,
+      "Sports Events": 293,
+      "Social and Political Events": 150
+    },
+    "user_sentiments": {
+      "Positive": 40.14336917562724,
+      "Negative": 59.85663082437276
+    }
+  },
+  {
+    "extra_article_attributes.world_data.country": "India",
+    "trending_topic": {
+      "Art and Culture": 11,
+      "Business Events": 72,
+      "Sports Events": 37,
+      "Social and Political Events": 6
+    },
+    "user_sentiments": {
+      "Positive": 29.145728643216078,
+      "Negative": 70.85427135678391
+    }
+  },
+  {
+    "extra_article_attributes.world_data.country": "Nigeria",
+    "trending_topic": {
+      "Art and Culture": 6,
+      "Business Events": 3,
+      "Sports Events": 33,
+      "Social and Political Events": 13
+    },
+    "user_sentiments": {
+      "Positive": 37.17948717948718,
+      "Negative": 62.82051282051282
+    }
+  },
+  {
+    "extra_article_attributes.world_data.country": "United Kingdom",
+    "trending_topic": {
+      "Art and Culture": 5,
+      "Business Events": 26,
+      "Sports Events": 12,
+      "Social and Political Events": 29
+    },
+    "user_sentiments": {
+      "Positive": 24.40677966101695,
+      "Negative": 75.59322033898304
+    }
+  },
+  {
+    "extra_article_attributes.world_data.country": "United States",
+    "trending_topic": {
+      "Art and Culture": 60,
+      "Business Events": 177,
+      "Sports Events": 72,
+      "Social and Political Events": 29
+    },
+    "user_sentiments": {
+      "Positive": 35.2428393524284,
+      "Negative": 64.75716064757161
+    }
+  }
+]

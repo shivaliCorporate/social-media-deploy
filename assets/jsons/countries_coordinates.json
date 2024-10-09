@@ -1,0 +1,898 @@
+[
+    {
+        "name": "Algeria",
+        "value": [
+            3,
+            28
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Argentina",
+        "value": [
+            -64,
+            -34
+        ],
+        "tweet_count": 5
+    },
+    {
+        "name": "Armenia",
+        "value": [
+            45,
+            40
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Australia",
+        "value": [
+            133,
+            -27
+        ],
+        "tweet_count": 40
+    },
+    {
+        "name": "Austria",
+        "value": [
+            13.33333333,
+            47.33333333
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Bahamas",
+        "value": [
+            -77.3963,
+            25.0343
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Bahrain",
+        "value": [
+            50.55,
+            26
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Bangladesh",
+        "value": [
+            90,
+            24
+        ],
+        "tweet_count": 2
+    },
+    {
+        "name": "Belarus",
+        "value": [
+            28,
+            53
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Belgium",
+        "value": [
+            4,
+            50.83333333
+        ],
+        "tweet_count": 3
+    },
+    {
+        "name": "Belize",
+        "value": [
+            -88.75,
+            17.25
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Bolivia",
+        "value": [
+            -65,
+            -17
+        ],
+        "tweet_count": 2
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "value": [
+            18,
+            44
+        ],
+        "tweet_count": 2
+    },
+    {
+        "name": "Botswana",
+        "value": [
+            24,
+            -22
+        ],
+        "tweet_count": 3
+    },
+    {
+        "name": "Brazil",
+        "value": [
+            -55,
+            -10
+        ],
+        "tweet_count": 11
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "value": [
+            71.5,
+            -6
+        ],
+        "tweet_count": 3
+    },
+    {
+        "name": "Canada",
+        "value": [
+            -95,
+            60
+        ],
+        "tweet_count": 68
+    },
+    {
+        "name": "Central African Republic",
+        "value": [
+            21,
+            7
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Chad",
+        "value": [
+            19,
+            15
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "China",
+        "value": [
+            105,
+            35
+        ],
+        "tweet_count": 21
+    },
+    {
+        "name": "Colombia",
+        "value": [
+            -72,
+            4
+        ],
+        "tweet_count": 6
+    },
+    {
+        "name": "Costa Rica",
+        "value": [
+            -84,
+            10
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Cuba",
+        "value": [
+            -80,
+            21.5
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Cyprus",
+        "value": [
+            33,
+            35
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Czech Republic",
+        "value": [
+            15.5,
+            49.75
+        ],
+        "tweet_count": 4
+    },
+    {
+        "name": "Denmark",
+        "value": [
+            10,
+            56
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Dominican Republic",
+        "value": [
+            -70.66666666,
+            19
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Ecuador",
+        "value": [
+            -77.5,
+            -2
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Egypt",
+        "value": [
+            30,
+            27
+        ],
+        "tweet_count": 2
+    },
+    {
+        "name": "El Salvador",
+        "value": [
+            -88.91666666,
+            13.83333333
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Equatorial Guinea",
+        "value": [
+            10,
+            2
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Eritrea",
+        "value": [
+            39,
+            15
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Estonia",
+        "value": [
+            26,
+            59
+        ],
+        "tweet_count": 5
+    },
+    {
+        "name": "Ethiopia",
+        "value": [
+            38,
+            8
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "France",
+        "value": [
+            2,
+            46
+        ],
+        "tweet_count": 23
+    },
+    {
+        "name": "Gambia",
+        "value": [
+            -16.6009,
+            13.4432
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Germany",
+        "value": [
+            9,
+            51
+        ],
+        "tweet_count": 12
+    },
+    {
+        "name": "Ghana",
+        "value": [
+            -2,
+            8
+        ],
+        "tweet_count": 5
+    },
+    {
+        "name": "Greece",
+        "value": [
+            22,
+            39
+        ],
+        "tweet_count": 5
+    },
+    {
+        "name": "Guatemala",
+        "value": [
+            -90.25,
+            15.5
+        ],
+        "tweet_count": 2
+    },
+    {
+        "name": "Haiti",
+        "value": [
+            -72.41666666,
+            19
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Honduras",
+        "value": [
+            -86.5,
+            15
+        ],
+        "tweet_count": 2
+    },
+    {
+        "name": "Hong Kong",
+        "value": [
+            114.16666666,
+            22.25
+        ],
+        "tweet_count": 11
+    },
+    {
+        "name": "Hungary",
+        "value": [
+            20,
+            47
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "India",
+        "value": [
+            77,
+            20
+        ],
+        "tweet_count": 199
+    },
+    {
+        "name": "Indonesia",
+        "value": [
+            120,
+            -5
+        ],
+        "tweet_count": 20
+    },
+    {
+        "name": "Iran",
+        "value": [
+            53,
+            32
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Ireland",
+        "value": [
+            -8,
+            53
+        ],
+        "tweet_count": 19
+    },
+    {
+        "name": "Israel",
+        "value": [
+            34.75,
+            31.5
+        ],
+        "tweet_count": 5
+    },
+    {
+        "name": "Italy",
+        "value": [
+            12.83333333,
+            42.83333333
+        ],
+        "tweet_count": 36
+    },
+    {
+        "name": "Jamaica",
+        "value": [
+            -77.5,
+            18.25
+        ],
+        "tweet_count": 5
+    },
+    {
+        "name": "Japan",
+        "value": [
+            138,
+            36
+        ],
+        "tweet_count": 20
+    },
+    {
+        "name": "Jersey",
+        "value": [
+            -2.16666666,
+            49.25
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Jordan",
+        "value": [
+            36,
+            31
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Kenya",
+        "value": [
+            38,
+            1
+        ],
+        "tweet_count": 41
+    },
+    {
+        "name": "Kuwait",
+        "value": [
+            45.75,
+            29.5
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Latvia",
+        "value": [
+            25,
+            57
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Lebanon",
+        "value": [
+            35.83333333,
+            33.83333333
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Liechtenstein",
+        "value": [
+            9.53333333,
+            47.26666666
+        ],
+        "tweet_count": 2
+    },
+    {
+        "name": "Lithuania",
+        "value": [
+            24,
+            56
+        ],
+        "tweet_count": 3
+    },
+    {
+        "name": "Macao",
+        "value": [
+            113.5439,
+            22.1987
+        ],
+        "tweet_count": 2
+    },
+    {
+        "name": "Madagascar",
+        "value": [
+            47,
+            -20
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Malaysia",
+        "value": [
+            112.5,
+            2.5
+        ],
+        "tweet_count": 15
+    },
+    {
+        "name": "Maldives",
+        "value": [
+            73,
+            3.25
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Malta",
+        "value": [
+            14.58333333,
+            35.83333333
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Marshall Islands",
+        "value": [
+            168,
+            9
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Mexico",
+        "value": [
+            -102,
+            23
+        ],
+        "tweet_count": 10
+    },
+    {
+        "name": "Monaco",
+        "value": [
+            7.4,
+            43.73333333
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Morocco",
+        "value": [
+            -5,
+            32
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Namibia",
+        "value": [
+            17,
+            -22
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Netherlands",
+        "value": [
+            5.75,
+            52.5
+        ],
+        "tweet_count": 24
+    },
+    {
+        "name": "New Zealand",
+        "value": [
+            174,
+            -41
+        ],
+        "tweet_count": 10
+    },
+    {
+        "name": "Nigeria",
+        "value": [
+            8,
+            10
+        ],
+        "tweet_count": 78
+    },
+    {
+        "name": "Norway",
+        "value": [
+            10,
+            62
+        ],
+        "tweet_count": 2
+    },
+    {
+        "name": "Pakistan",
+        "value": [
+            70,
+            30
+        ],
+        "tweet_count": 8
+    },
+    {
+        "name": "Palestine",
+        "value": [
+            35.2332,
+            31.9522
+        ],
+        "tweet_count": 15
+    },
+    {
+        "name": "Paraguay",
+        "value": [
+            -58,
+            -23
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Peru",
+        "value": [
+            -76,
+            -10
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Philippines",
+        "value": [
+            122,
+            13
+        ],
+        "tweet_count": 21
+    },
+    {
+        "name": "Poland",
+        "value": [
+            20,
+            52
+        ],
+        "tweet_count": 6
+    },
+    {
+        "name": "Portugal",
+        "value": [
+            -8,
+            39.5
+        ],
+        "tweet_count": 3
+    },
+    {
+        "name": "Puerto Rico",
+        "value": [
+            -66.5,
+            18.25
+        ],
+        "tweet_count": 3
+    },
+    {
+        "name": "Qatar",
+        "value": [
+            51.25,
+            25.5
+        ],
+        "tweet_count": 2
+    },
+    {
+        "name": "Romania",
+        "value": [
+            25,
+            46
+        ],
+        "tweet_count": 3
+    },
+    {
+        "name": "Russia",
+        "value": [
+            100,
+            60
+        ],
+        "tweet_count": 2
+    },
+    {
+        "name": "Sao Tome And Principe",
+        "value": [
+            6.6131,
+            0.1864
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Saudi Arabia",
+        "value": [
+            45,
+            25
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Serbia",
+        "value": [
+            16.4284181,
+            44.1305021
+        ],
+        "tweet_count": 3
+    },
+    {
+        "name": "Seychelles",
+        "value": [
+            55.66666666,
+            -4.58333333
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Singapore",
+        "value": [
+            103.8,
+            1.36666666
+        ],
+        "tweet_count": 6
+    },
+    {
+        "name": "South Africa",
+        "value": [
+            24,
+            -29
+        ],
+        "tweet_count": 45
+    },
+    {
+        "name": "South Korea",
+        "value": [
+            127.5,
+            37
+        ],
+        "tweet_count": 42
+    },
+    {
+        "name": "South Sudan",
+        "value": [
+            30,
+            7
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Spain",
+        "value": [
+            -4,
+            40
+        ],
+        "tweet_count": 26
+    },
+    {
+        "name": "Sudan",
+        "value": [
+            30,
+            15
+        ],
+        "tweet_count": 2
+    },
+    {
+        "name": "Sweden",
+        "value": [
+            15,
+            62
+        ],
+        "tweet_count": 7
+    },
+    {
+        "name": "Switzerland",
+        "value": [
+            8,
+            47
+        ],
+        "tweet_count": 7
+    },
+    {
+        "name": "Syria",
+        "value": [
+            38,
+            35
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Taiwan",
+        "value": [
+            121,
+            23.5
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Tanzania",
+        "value": [
+            35,
+            -6
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Thailand",
+        "value": [
+            100,
+            15
+        ],
+        "tweet_count": 2
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "value": [
+            -61,
+            11
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Turkey",
+        "value": [
+            35,
+            39
+        ],
+        "tweet_count": 3
+    },
+    {
+        "name": "Uganda",
+        "value": [
+            32,
+            1
+        ],
+        "tweet_count": 13
+    },
+    {
+        "name": "Ukraine",
+        "value": [
+            32,
+            49
+        ],
+        "tweet_count": 9
+    },
+    {
+        "name": "United Arab Emirates",
+        "value": [
+            54,
+            24
+        ],
+        "tweet_count": 4
+    },
+    {
+        "name": "United Kingdom",
+        "value": [
+            -2,
+            54
+        ],
+        "tweet_count": 295
+    },
+    {
+        "name": "United States",
+        "value": [
+            -97,
+            38
+        ],
+        "tweet_count": 803
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "value": [
+            -166.668,
+            19.2823
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Venezuela",
+        "value": [
+            -66,
+            8
+        ],
+        "tweet_count": 1
+    },
+    {
+        "name": "Vietnam",
+        "value": [
+            107.83333333,
+            16.16666666
+        ],
+        "tweet_count": 5
+    },
+    {
+        "name": "Zimbabwe",
+        "value": [
+            30,
+            -20
+        ],
+        "tweet_count": 3
+    }
+]
